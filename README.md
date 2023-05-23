@@ -6,6 +6,10 @@
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 
+## 🛠 Sobre o Projeto
+
+Esse projeto foi desenvolvido como um software desktop para gestão de insumos para empresas moveleiras. 
+
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
